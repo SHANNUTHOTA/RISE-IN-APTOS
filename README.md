@@ -57,4 +57,5 @@ Our vision is to create a simple yet engaging on-chain game that demonstrates th
 
 ## Contract Details
 
-*The contract is not yet deployed to a public network. Once deployed, the address will be updated here.*
+0x9616b8ef9a71a37081ffe8ac34eee42777f9321c9db9bf614a92c2522cbf29a7
+<img width="1710" height="1107" alt="Screenshot 2025-08-05 at 11 09 43 PM" src="https://github.com/user-attachments/assets/1889bd77-7858-4ee9-946e-a25f81554513" />
