@@ -1,3 +1,4 @@
+<img width="1710" height="1107" alt="Screenshot 2025-08-05 at 11 09 43 PM" src="https://github.com/user-attachments/assets/701297f4-f8c2-4e12-b230-372bfa60b5f8" />
 # Aptos Resource Empire DApp
 
 ## Project Description
