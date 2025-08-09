@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
+resource_game = "0x7ca55747bec5befc784dd92b917e37a4ceb42a1d6693b9fd86422091cbe99907"
 
 [dev-addresses]
 
